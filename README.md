@@ -1,4 +1,4 @@
-Hi, I’m Taryn Boonpongmanee, a freshman at Stanford University studying Computer Science and Math. I'm interested in machine learning, AI,
+Hi, I’m Taryn Boonpongmanee, a freshman at Stanford University studying Computer Science and Management Science & engineering. I'm interested in machine learning, AI,
 and computational math. I'm planning to major in CS on the AI track. You can reach me at tarynb@stanford.edu. 
 
 <!---
